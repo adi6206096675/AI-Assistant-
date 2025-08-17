@@ -1,0 +1,5 @@
+{
+  "name": "Nexus AI Agent Platform",
+  "description": "An advanced AI platform with a suite of specialized agents. Switch between a general assistant, a data analyst, a creative muse, and a coding expert, each with persistent conversational memory.",
+  "requestFramePermissions": []
+}
